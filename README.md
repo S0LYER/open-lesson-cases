@@ -1,5 +1,7 @@
 # Кейсы для открытого урока с использованием OpenCV
 
+[![License](https://img.shields.io/github/license/S0LYER/open-lesson-cases?color=orange&style=flat-square)](LICENSE)
+
 Данные кейсы предназначены для открытого урока в вузе. Разработка осуществлялась на Arch linux с использованием Qt6. Библиотека OpenCV собиралась из исходников
 
 ---
@@ -7,7 +9,7 @@
 ### Развертка на устройстве: 
 
 ```
-git clone https://github.com/S0LYER/open-lassion-cases
+git clone https://github.com/S0LYER/open-lesson-cases
 cd open-lesson-cases
 ls
 ```
